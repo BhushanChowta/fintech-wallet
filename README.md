@@ -6,7 +6,7 @@ A production-ready REST API built with **Go (Golang)** simulating a digital wall
 
 | Layer | Technology |
 |-------|-----------|
-| Language | Go 1.22 |
+| Language | Go 1.23 |
 | Framework | Gin |
 | Database | PostgreSQL + GORM |
 | Cache | Redis |
