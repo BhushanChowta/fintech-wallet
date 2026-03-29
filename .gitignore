@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+bin/
+dist/
+coverage/
+*.log
+*.out
+*.exe
+*.test
+vendor/
+.idea/
+.vscode/
