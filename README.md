@@ -2,7 +2,7 @@
 
 A production-ready REST API built with **Go (Golang)** simulating a digital wallet system — similar to PayPal or Paytm internals.
 
-## Tech Stack
+## Tech Stack 
 
 | Layer | Technology |
 |-------|-----------|
